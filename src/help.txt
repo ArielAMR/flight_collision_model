@@ -1,0 +1,18 @@
+Air traffic simulation panel
+
+USAGE
+    ./my_radar [OPTIONS] path_to_script
+    path_to_script The path to the script file.
+
+OPTIONS
+    -h print the usage and quit.
+
+USER INTERACTIONS (Key to enable / Shift + Key to disable)
+    'Esc'   close window
+    'l'     key enable/disable hitboxes and areas.
+    's'     key enable/disable sprites.
+    't'     key enable/disable texts.
+
+SUPER SECRETS INTERACTIONS (Key to enable / Shift + Key to disable)
+    'z'     key enable/disable zones.
+    'p'     key enable/disable zones ids if zones are displayed.
